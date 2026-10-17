@@ -1,0 +1,4 @@
+streamlit
+chromadb==1.5.9
+groq==1.7.0
+fastembed
